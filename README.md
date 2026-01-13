@@ -1,4 +1,4 @@
-##  Ratio
+# <img src="/images/logo.png" align="left" width="30"> Mon Titre
 
 # What is Ratio?
 Ratio is a Titi's project!

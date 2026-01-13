@@ -11,3 +11,6 @@ We hope
 
 # ⚠️ WARNING ⚠️
 Ratio is not out now, if u see a app called Ratio it's not real !! or maybe another app...
+
+### Links
+<a href="https://www.roblox.com/users/3089565540/profile"> Titi's roblox account

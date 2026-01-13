@@ -9,5 +9,5 @@ hmm.... there's no actual version of Ratio...
 ## Will it have a website
 We hope
 
-### ⚠️ WARNING ⚠️
+# ⚠️ WARNING ⚠️
 Ratio is not out now, if u see a app called Ratio it's not real !! or maybe another app...

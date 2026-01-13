@@ -1,12 +1,12 @@
 # <img src="/images/logo2.png" align="center" width="40"> Ratio
 
-# What is Ratio?
+## What is Ratio?
 Ratio is a Titi's project!
 
-# How to download it ?
+## How to download it ?
 hmm.... there's no actual version of Ratio...
 
-# Will it have a website
+## Will it have a website
 We hope
 
 ### ⚠️ WARNING ⚠️

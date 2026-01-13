@@ -1,4 +1,4 @@
-# <img src="/images/logo.png" align="left" width="50"> Ratio
+# <img src="/images/logo2.png" align="left" width="50"> Ratio
 
 # What is Ratio?
 Ratio is a Titi's project!
